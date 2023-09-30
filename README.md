@@ -1,4 +1,5 @@
-[Bluetooth](#bluetooth)
+Table of contents:
+- [Bluetooth](#bluetooth)
 
 ## Bluetooth
 ### Startup launch

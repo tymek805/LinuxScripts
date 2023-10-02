@@ -15,6 +15,7 @@ Table of contents:
 ## External packages
 
 - [Autorandr](https://github.com/phillipberndt/autorandr) - Automatically select a display configuration based on connected devices
+- [Envycontrol](https://github.com/bayasdev/envycontrol) - EnvyControl provides an easy way to switch between GPU modes on Nvidia Optimus systems under Linux.
 
 ## Bluetooth
 

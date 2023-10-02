@@ -15,10 +15,10 @@ Table of contents:
 
 ### Startup launch
 
-In order to modify launch Bluetooth module on system startup you need to change a variable **AutoEnable** in file **main.conf**
+In order to modify launch Bluetooth module on system startup you need to change a variable "**AutoEnable**" in file **main.conf**
 
 ```sh
 sudo nano /etc/bluetooth/main.conf
 ```
 
-and there change variable **AutoEnable** to desired value (true/false).
+and there change variable "**AutoEnable**" to desired value (true/false).

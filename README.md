@@ -1,4 +1,6 @@
-Table of contents:
+# Ubuntu Setup Cheat Sheet
+
+## Table of contents:
 - [List of extensions](#extensions)
 - [External packages](#external-packages)
 - [Bluetooth](#bluetooth)

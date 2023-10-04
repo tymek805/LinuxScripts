@@ -4,6 +4,7 @@
 - [Extensions](#extensions)
 - [External packages](#external-packages)
 - [Bluetooth](#bluetooth)
+- [Dock](#dock)
 
 ## Extensions
 - [Blur my Shell](https://extensions.gnome.org/extension/3193/blur-my-shell/) - Adds a blur look to different parts of the GNOME Shell, including the top panel, dash and overview
@@ -30,3 +31,13 @@ sudo nano /etc/bluetooth/main.conf
 ```
 
 and there change variable "**AutoEnable**" to desired value (true/false).
+
+## Dock
+
+### Minimize on click
+
+To set up minimize on click run this command
+
+```sh
+gsettings set org.gnome.shell.extensions.dash-to-dock click-action 'minimize'
+```

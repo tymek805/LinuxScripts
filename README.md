@@ -36,8 +36,13 @@ and there change variable "**AutoEnable**" to desired value (true/false).
 
 ### Minimize on click
 
-To set up minimize on click run this command
-
+1. Always minimize on click
 ```sh
 gsettings set org.gnome.shell.extensions.dash-to-dock click-action 'minimize'
 ```
+2. Minimize on click or show previews
+```sh
+gsettings set org.gnome.shell.extensions.dash-to-dock click-action 'minimize-or-previews'
+```
+> More flexible solution
+

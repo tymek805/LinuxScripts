@@ -4,6 +4,7 @@
 - [Extensions](#extensions)
 - [External packages](#external-packages)
 - [Bluetooth](#bluetooth)
+- [Apps](#apps)
 - [Discord](#discord)
 - [Dock](#dock)
 
@@ -33,9 +34,11 @@ sudo nano /etc/bluetooth/main.conf
 
 and there change variable "**AutoEnable**" to desired value (true/false).
 
-## Discord
+## Apps
 
-### Discord wants latest version
+### Discord
+
+#### Discord wants latest version
 
 ![Discord wants latest version - image](https://nixos.wiki/images/4/40/Discord_update_latest.png)
 
@@ -47,6 +50,8 @@ and change `"SKIP_HOST_UPDATE"` to `true` \
 Whole line should look like this: \
 `SKIP_HOST_UPDATE: true`
 > Remember to add coma to the previous value
+
+### Steam
 
 ## Dock
 

@@ -67,6 +67,8 @@ gsettings set org.gnome.shell.extensions.dash-to-dock click-action 'minimize'
 gsettings set org.gnome.shell.extensions.dash-to-dock click-action 'minimize-or-previews'
 ```
 
+> More flexible solution
+
 ## Builtin
 
 ### Prompt for password
@@ -74,6 +76,3 @@ gsettings set org.gnome.shell.extensions.dash-to-dock click-action 'minimize-or-
 ```sh
 pkexec [command]
 ```
-
-> More flexible solution
-

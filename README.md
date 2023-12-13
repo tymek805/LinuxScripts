@@ -7,6 +7,7 @@
 - [Apps](#apps)
 - [Discord](#discord)
 - [Dock](#dock)
+- [Built-in prompt](#builtin)
 
 ## Extensions
 - [Blur my Shell](https://extensions.gnome.org/extension/3193/blur-my-shell/) - Adds a blur look to different parts of the GNOME Shell, including the top panel, dash and overview
@@ -65,5 +66,14 @@ gsettings set org.gnome.shell.extensions.dash-to-dock click-action 'minimize'
 ```sh
 gsettings set org.gnome.shell.extensions.dash-to-dock click-action 'minimize-or-previews'
 ```
+
+## Builtin
+
+### Prompt for password
+
+```sh
+pkexec [command]
+```
+
 > More flexible solution
 

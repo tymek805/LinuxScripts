@@ -7,8 +7,7 @@
 - [Apps](#apps)
 - [Discord](#discord)
 - [Dock](#dock)
-- [Built-in prompt](#builtin)
-- [Theme](#theme)
+- [Built-in](#builtin)
 
 ## Extensions
 - [Blur my Shell](https://extensions.gnome.org/extension/3193/blur-my-shell/) - Adds a blur look to different parts of the GNOME Shell, including the top panel, dash and overview
@@ -78,8 +77,9 @@ gsettings set org.gnome.shell.extensions.dash-to-dock click-action 'minimize-or-
 pkexec [command]
 ```
 
-## Theme
-
 ### Using custom theme
 
-Change **gnome-shell.css** file in the `/usr/share/themes/Yaru-prussiangreen/gnome-shell/`
+Change **gnome-shell.css** file in the `/usr/share/themes/Yaru-prussiangreen/gnome-shell/` and set **Shell** in the GNOME Tweaks app in the Appearance section to required theme. 
+
+In order to do so you have to have enabled [User Themes](https://extensions.gnome.org/extension/19/user-themes/) extension.
+> Dark mode may be not working

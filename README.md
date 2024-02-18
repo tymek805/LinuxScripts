@@ -8,6 +8,7 @@
 - [Discord](#discord)
 - [Dock](#dock)
 - [Built-in prompt](#builtin)
+- [Theme](#theme)
 
 ## Extensions
 - [Blur my Shell](https://extensions.gnome.org/extension/3193/blur-my-shell/) - Adds a blur look to different parts of the GNOME Shell, including the top panel, dash and overview
@@ -76,3 +77,9 @@ gsettings set org.gnome.shell.extensions.dash-to-dock click-action 'minimize-or-
 ```sh
 pkexec [command]
 ```
+
+## Theme
+
+### Using custom theme
+
+Change **gnome-shell.css** file in the `/usr/share/themes/Yaru-prussiangreen/gnome-shell/`

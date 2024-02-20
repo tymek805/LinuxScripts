@@ -22,7 +22,7 @@ change_wallpaper () {
 HOUR=$(date +%-H)
 (( HOUR >= 6 && HOUR < 21 )) && DAYTIME="day" || DAYTIME="night"
 echo "Now is: ${DAYTIME}"
-change_wallpaper
+
 CURRENT_WALLPAPER=$(gsettings get org.gnome.desktop.background picture-uri | grep 'day')
 if ([ -z "$CURRENT_WALLPAPER" ] && [ "$DAYTIME" == "day" ]) || ([ ! -z "$CURRENT_WALLPAPER" ] && [ "$DAYTIME" == "night" ]); then
     change_wallpaper

@@ -87,3 +87,7 @@ In order to do so you have to have enabled [User Themes](https://extensions.gnom
 ### Calendar display language
 
 Execute command `sudo locale-gen pl_PL` and `sudo locale-gen pl_PL.UTF-8`. Use command `locale` to identify what language is currently used. To change calendar display language execute `sudo update-locale LC_TIME="pl_PL.UTF-8"` and logout to commit changes.
+
+### Disk mount at startup
+
+Add this command to Startup Applications `udisksctl mount -b /dev/<partition_path>`

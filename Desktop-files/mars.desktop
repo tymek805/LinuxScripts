@@ -1,0 +1,8 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Mars
+Path=/home/tymoteusz/Software/Mars/
+Exec=java -Dsun.java2d.uiScale=2.0 -jar Mars.jar
+Terminal=false
+Keywords=mips;assembler;
+Type=Application

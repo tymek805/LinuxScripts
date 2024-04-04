@@ -17,6 +17,7 @@
 - [Hide Activities Button](https://extensions.gnome.org/extension/744/hide-activities-button/) - Hides the Activities button from the status bar
 - [Quick Settings Audio Panel](https://extensions.gnome.org/extension/5940/quick-settings-audio-panel/) - Create a new panel containing volumes and media control in the quick settings
 - [Pixel Saver](https://extensions.gnome.org/extension/723/pixel-saver/) - Pixel Saver is designed to save pixel by fusing activity bar and title bar in a natural way
+- [No overview](https://extensions.gnome.org/extension/4099/no-overview/) - No overview at start-up. Nothing more.
 
 ## External packages
 
@@ -51,8 +52,6 @@ and change `"SKIP_HOST_UPDATE"` to `true` \
 Whole line should look like this: \
 `SKIP_HOST_UPDATE: true`
 > Remember to add coma to the previous value
-
-### Steam
 
 ## Dock
 

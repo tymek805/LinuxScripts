@@ -90,3 +90,10 @@ Execute command `sudo locale-gen pl_PL` and `sudo locale-gen pl_PL.UTF-8`. Use c
 ### Disk mount at startup
 
 Add this command to Startup Applications `udisksctl mount -b /dev/<partition_path>`
+
+### Wrong time on dualboot
+
+To solve this problem you have to tell your Linux system to use hardware clock (RTC). You do that with the `set-local-rtc` option:
+```sh
+timedatectl set-local-rtc 1
+```

@@ -5,8 +5,9 @@
 - [Blur my Shell](https://extensions.gnome.org/extension/3193/blur-my-shell/) - Adds a blur look to different parts of the GNOME Shell, including the top panel, dash and overview
 - [Click to close overview](https://extensions.gnome.org/extension/3826/click-to-close-overview/) - Close the overview by clicking empty space
 - [Dynamic Calendar, Clocks and Weather Icons](https://extensions.gnome.org/extension/5550/dynamic-calendar-and-clocks-icons/) - Let Calendar, Clocks and Weather icons show current date, time and weather.
-
+- [Remove World Clocks](https://extensions.gnome.org/extension/6973/remove-world-clocks/) - GNOME shell extension to remove world clocks from the date menu
 - [[QSTweak] Quick Setting Tweaker](https://extensions.gnome.org/extension/5446/quick-settings-tweaker/) - You can add Media Controls, Notifications, Volume Mixer on quick settings and remove useless buttons!
+
 - [Quick Settings Audio Panel](https://extensions.gnome.org/extension/5940/quick-settings-audio-panel/) - Create a new panel containing volumes and media control in the quick settings
 - [Pixel Saver](https://extensions.gnome.org/extension/723/pixel-saver/) - Pixel Saver is designed to save pixel by fusing activity bar and title bar in a natural way
 - [No overview](https://extensions.gnome.org/extension/4099/no-overview/) - No overview at start-up. Nothing more.

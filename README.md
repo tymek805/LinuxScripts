@@ -1,15 +1,9 @@
 # Ubuntu Setup Cheat Sheet
-
-## Table of contents:
-- [Extensions](#extensions)
-- [External packages](#external-packages)
-- [Bluetooth](#bluetooth)
-- [Apps](#apps)
-- [Discord](#discord)
-- [Dock](#dock)
-- [Built-in](#builtin)
-
 ## Extensions
+- [DM Theme Changer](https://extensions.gnome.org/extension/7379/dm-theme-changer/) - Automatically change theme styles when dark mode is enabled or disabled.
+- [User Themes](https://extensions.gnome.org/extension/19/user-themes/) - Load shell themes from user directory.
+
+  
 - [Blur my Shell](https://extensions.gnome.org/extension/3193/blur-my-shell/) - Adds a blur look to different parts of the GNOME Shell, including the top panel, dash and overview
 - [Click to close overview](https://extensions.gnome.org/extension/3826/click-to-close-overview/) - Close the overview by clicking empty space
 - [Compact Quick Settings](https://extensions.gnome.org/extension/5527/compact-quick-settings/) - Compact quick settings menu for GNOME 43 and newer
@@ -20,7 +14,6 @@
 - [No overview](https://extensions.gnome.org/extension/4099/no-overview/) - No overview at start-up. Nothing more.
 
 ## External packages
-
 - [Autorandr](https://github.com/phillipberndt/autorandr) - Automatically select a display configuration based on connected devices
 - [Envycontrol](https://github.com/bayasdev/envycontrol) - EnvyControl provides an easy way to switch between GPU modes on Nvidia Optimus systems under Linux.
 

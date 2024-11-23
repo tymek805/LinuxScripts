@@ -27,6 +27,11 @@ In line `GRUB_CMDLINE_LINUX_DEFAULT` append `amdgpu.abmlevel=0`. For example:
 ```sh
 GRUB_CMDLINE_LINUX_DEFAULT="quiet splash amdgpu.abmlevel=0"
 ```
+After saving the changes, update the GRUB configuration:
+```sh
+sudo update-grub
+```
+and reboot to apply changes.
 
 ## Bluetooth
 

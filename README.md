@@ -4,7 +4,7 @@
 - [User Themes](https://extensions.gnome.org/extension/19/user-themes/) - Load shell themes from user directory.
 - [Blur my Shell](https://extensions.gnome.org/extension/3193/blur-my-shell/) - Adds a blur look to different parts of the GNOME Shell, including the top panel, dash and overview
 - [Click to close overview](https://extensions.gnome.org/extension/3826/click-to-close-overview/) - Close the overview by clicking empty space
-
+- [Dynamic Calendar, Clocks and Weather Icons](https://extensions.gnome.org/extension/5550/dynamic-calendar-and-clocks-icons/) - Let Calendar, Clocks and Weather icons show current date, time and weather.
 
 - [Compact Quick Settings](https://extensions.gnome.org/extension/5527/compact-quick-settings/) - Compact quick settings menu for GNOME 43 and newer
 - [[QSTweak] Quick Setting Tweaker](https://extensions.gnome.org/extension/5446/quick-settings-tweaker/) - You can add Media Controls, Notifications, Volume Mixer on quick settings and remove useless buttons!

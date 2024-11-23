@@ -2,9 +2,8 @@
 ## Extensions
 - [DM Theme Changer](https://extensions.gnome.org/extension/7379/dm-theme-changer/) - Automatically change theme styles when dark mode is enabled or disabled.
 - [User Themes](https://extensions.gnome.org/extension/19/user-themes/) - Load shell themes from user directory.
-
-  
 - [Blur my Shell](https://extensions.gnome.org/extension/3193/blur-my-shell/) - Adds a blur look to different parts of the GNOME Shell, including the top panel, dash and overview
+
 - [Click to close overview](https://extensions.gnome.org/extension/3826/click-to-close-overview/) - Close the overview by clicking empty space
 - [Compact Quick Settings](https://extensions.gnome.org/extension/5527/compact-quick-settings/) - Compact quick settings menu for GNOME 43 and newer
 - [[QSTweak] Quick Setting Tweaker](https://extensions.gnome.org/extension/5446/quick-settings-tweaker/) - You can add Media Controls, Notifications, Volume Mixer on quick settings and remove useless buttons!

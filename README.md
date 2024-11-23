@@ -17,6 +17,17 @@
 - [Autorandr](https://github.com/phillipberndt/autorandr) - Automatically select a display configuration based on connected devices
 - [Envycontrol](https://github.com/bayasdev/envycontrol) - EnvyControl provides an easy way to switch between GPU modes on Nvidia Optimus systems under Linux.
 
+## Disable ABM
+
+Open a terminal and edit the GRUB configuration file:
+```sh
+sudo nano /etc/default/grub
+```
+In line `GRUB_CMDLINE_LINUX_DEFAULT` append `amdgpu.abmlevel=0`. For example:
+```sh
+GRUB_CMDLINE_LINUX_DEFAULT="quiet splash amdgpu.abmlevel=0"
+```
+
 ## Bluetooth
 
 ### Startup launch

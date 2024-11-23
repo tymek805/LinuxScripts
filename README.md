@@ -45,23 +45,6 @@ sudo nano /etc/bluetooth/main.conf
 
 and there change variable "**AutoEnable**" to desired value (true/false).
 
-## Apps
-
-### Discord
-
-#### Discord wants latest version
-
-![Discord wants latest version - image](https://nixos.wiki/images/4/40/Discord_update_latest.png)
-
-```sh
-nano ~/.config/discord/settings.json
-```
-and change `"SKIP_HOST_UPDATE"` to `true` \
-\
-Whole line should look like this: \
-`SKIP_HOST_UPDATE: true`
-> Remember to add coma to the previous value
-
 ## Dock
 
 ### Minimize on click

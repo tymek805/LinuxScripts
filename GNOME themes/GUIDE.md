@@ -24,4 +24,3 @@ Currently:
    - **.login-dialog-user-list-view** (class for main login screen and user selection)
    - **.login-dialog-not-listed-button** (class to change "Not listed?" button)
  - In Yaru-prussiangreen:
-   - 

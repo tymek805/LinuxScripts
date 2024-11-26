@@ -88,3 +88,7 @@ To solve this problem you have to tell your Linux system to use hardware clock (
 ```sh
 timedatectl set-local-rtc 1
 ```
+
+### Useful link
+https://askubuntu.com/questions/1529418/some-applications-start-very-slow-after-boot-on-ubuntu-24-04
+

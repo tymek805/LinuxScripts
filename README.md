@@ -11,7 +11,7 @@
 - [Quick Settings Audio Panel](https://extensions.gnome.org/extension/5940/quick-settings-audio-panel/) - Create a new panel containing volumes and media control in the quick settings
 - [Pixel Saver](https://extensions.gnome.org/extension/723/pixel-saver/) - Pixel Saver is designed to save pixel by fusing activity bar and title bar in a natural way
 - [No overview](https://extensions.gnome.org/extension/4099/no-overview/) - No overview at start-up. Nothing more.
-
+- [Window Is Ready - Notification Remover](https://extensions.gnome.org/extension/1007/window-is-ready-notification-remover/) - Removes window is ready Notification
 ## External packages
 - [Autorandr](https://github.com/phillipberndt/autorandr) - Automatically select a display configuration based on connected devices
 - [Envycontrol](https://github.com/bayasdev/envycontrol) - EnvyControl provides an easy way to switch between GPU modes on Nvidia Optimus systems under Linux.
